@@ -1,1 +1,1 @@
-# Blackjack
+# Blackjack game with computer.
